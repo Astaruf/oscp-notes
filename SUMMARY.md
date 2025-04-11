@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Introduction](README.md)
 * [Network Scan](network-scan.md)
 * [Services Exploitation](services-exploitation/README.md)
   * [21 - FTP](services-exploitation/21-ftp.md)
