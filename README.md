@@ -1,6 +1,6 @@
 # Welcome!
 
-Hi there! In this space, I'll be sharing my notes, experiences, and tips on how to prepare for the  [Offensive Security Certified Professional](https://www.offsec.com/courses/pen-200/) (OSCP) certification exam. The goal of this space is to help other aspiring ethical hackers pass this highly respected and globally recognized certification exam. Along my journey, I've collected command cheat sheets and useful resources that I'll be sharing with you. I hope that this guide can be helpful and inspire others to take on the challenge of becoming a certified OSCP security expert.
+Hi there! In [this space](https://oscp.nstsec.com), I'll be sharing my notes, experiences, and tips on how to prepare for the  [Offensive Security Certified Professional](https://www.offsec.com/courses/pen-200/) (OSCP) certification exam. The goal of this space is to help other aspiring ethical hackers pass this highly respected and globally recognized certification exam. Along my journey, I've collected command cheat sheets and useful resources that I'll be sharing with you. I hope that this guide can be helpful and inspire others to take on the challenge of becoming a certified OSCP security expert.
 
 {% hint style="danger" %}
 **Attention!** I will not disclose any specific details regarding the OSCP exam contents due to OffSec's non-disclosure policies. The information I provide will be from publicly available sources or based on my personal experiences and feelings. OffSec takes the integrity of the exam and certification process very seriously. Any violation of their policies may result in the revocation of the OSCP certification and legal action taken.
@@ -34,7 +34,7 @@ The countdown is on! I have officially scheduled my exam for April 30th and will
 
 ## <mark style="color:red;">About the OSCP Exam</mark>
 
-[OSCP ](https://en.wikipedia.org/wiki/OffSec\_Certified\_Professional)is a professional ethical hacking certification offered by [OffSec ](https://www.offsec.com/)that teaches penetration testing methodologies and the use of tools included in the [Kali Linux distribution](https://www.kali.org/) via the [PEN-200](https://www.offsec.com/courses/pen-200/) learning path.
+[OSCP ](https://en.wikipedia.org/wiki/OffSec_Certified_Professional)is a professional ethical hacking certification offered by [OffSec ](https://www.offsec.com/)that teaches penetration testing methodologies and the use of tools included in the [Kali Linux distribution](https://www.kali.org/) via the [PEN-200](https://www.offsec.com/courses/pen-200/) learning path.
 
 The OSCP certification exam simulates a live network in a private VPN, which contains a small number of vulnerable machines.
 
